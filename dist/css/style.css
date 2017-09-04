@@ -1,0 +1,19 @@
+button {
+	margin-left: 8px;
+}
+
+h1 {
+	padding-top: 10px;
+}
+
+.buttons {
+	margin-bottom: 5px;	
+}
+
+@media screen and (min-width: 576px) {
+    
+    .error {
+		padding-top: 15px;	
+	}
+
+}
